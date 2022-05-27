@@ -3,12 +3,18 @@
       "name": "FFVII RPG GAME",
       "live": "https://kaeriv93.github.io/Project--1-RPG-TURN-BASED-BATTLE/",
       "git": "https://github.com/Kaeriv93/Project--1-RPG-TURN-BASED-BATTLE",
-      "image": "https://i.imgur.com/5EhHleJ.png"
+      "image": "https://i.imgur.com/CxTWDqX.png"
     },
     {
       "name": "YouTube Clone",
       "live": "https://dry-forest-91090.herokuapp.com/",
       "git": "https://github.com/Kaeriv93/project2",
-      "image": "https://i.imgur.com/Sg2pHxk.png"
+      "image": "https://i.imgur.com/qju6gor.png"
+    },
+    {
+      "name": "Studio Movie Ghibli",
+      "live": "https://luminous-naiad-8a44ad.netlify.app/",
+      "git": "https://github.com/Kaeriv93/Studio-Ghibli-Project-3",
+      "image": "https://i.imgur.com/BtUnXI1.png"
     }
   ]
