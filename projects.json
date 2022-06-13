@@ -22,5 +22,13 @@
       "image": "https://i.imgur.com/BtUnXI1.png",
       "description": "A movie app based off Studio Movie Ghibli Films. Users are able to sign up/login and leave reviews on their films.They are also able to customize their profile.",
       "tech": "React Javascript CSS"
+    },
+    {
+      "name": "Facenovel",
+      "live": "https://facenovel.netlify.app/",
+      "git": "https://github.com/Kaeriv93/capstone-mern-front",
+      "image": "https://i.imgur.com/b2iECKN.png",
+      "description": "A simple application based off Facebook. Users are able to register/login make edits to their own page. They can also post comments and make blogs.",
+      "tech": "React Javascript CSS"
     }
   ]
