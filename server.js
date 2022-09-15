@@ -36,7 +36,7 @@ app.get("/about", (req, res) => {
 });
 
 //declare a variable for our port number
-const PORT = process.env.PORT || 4000;
+const {PORT = 4000, GMAIL, PW} = process.env
 
 const contactEmail = nodemailer.createTransport({
   service: 'gmail',
