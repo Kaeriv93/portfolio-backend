@@ -1,4 +1,20 @@
 [
+  {
+    "name": "Bonsai Fusion Steakhouse",
+    "live": "https://bonsai-beta-v1.netlify.app/",
+    "git": "https://github.com/Kaeriv93/Bonsai-New",
+    "image": "https://i.imgur.com/JmumD5w.png",
+    "description": "A responsive website created from the ground up leveraging React for a local restaurant in Houston, Tx. Added functionality to display estimate of price cost for customers, as well as adding functionality to email the restaurant. Constantly updated to meet business/leadership standards",
+    "tech": "React Javascript CSS Bootstrap"
+  },
+  {
+    "name": "YouTube Clone",
+    "live": "https://dry-forest-91090.herokuapp.com/",
+    "git": "https://github.com/Kaeriv93/project2",
+    "image": "https://i.imgur.com/qju6gor.png",
+    "description": "A youtube clone where users are able to watch videos. They can also leave comments on videos as well.",
+    "tech": "HTML CSS Javascript Mongo EJS"
+  },
     {
       "name": "FFVII RPG GAME",
       "live": "https://kaeriv93.github.io/Project--1-RPG-TURN-BASED-BATTLE/",
@@ -6,29 +22,6 @@
       "image": "https://i.imgur.com/CxTWDqX.png",
       "description": "A small interactive game based on Final Fantasy 7. Users will use attacks, magic, heals to survive the battle",
       "tech": "HTML CSS jQuery Javascript"
-    },
-    {
-      "name": "YouTube Clone",
-      "live": "https://dry-forest-91090.herokuapp.com/",
-      "git": "https://github.com/Kaeriv93/project2",
-      "image": "https://i.imgur.com/qju6gor.png",
-      "description": "A youtube clone where users are able to watch videos. They can also leave comments on videos as well.",
-      "tech": "HTML CSS Javascript Mongo EJS"
-    },
-    {
-      "name": "Studio Movie Ghibli",
-      "live": "https://luminous-naiad-8a44ad.netlify.app/",
-      "git": "https://github.com/Kaeriv93/Studio-Ghibli-Project-3",
-      "image": "https://i.imgur.com/BtUnXI1.png",
-      "description": "A movie app based off Studio Movie Ghibli Films. Users are able to sign up/login and leave reviews on their films.They are also able to customize their profile.",
-      "tech": "React Javascript CSS"
-    },
-    {
-      "name": "Facenovel",
-      "live": "https://facenovel.netlify.app/",
-      "git": "https://github.com/Kaeriv93/capstone-mern-front",
-      "image": "https://i.imgur.com/b2iECKN.png",
-      "description": "A simple application based off Facebook. Users are able to register/login make edits to their own page. They can also post comments and make blogs.",
-      "tech": "React Javascript CSS"
     }
+
   ]
