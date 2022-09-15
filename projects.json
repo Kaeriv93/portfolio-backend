@@ -12,7 +12,7 @@
     "live": "https://dry-forest-91090.herokuapp.com/",
     "git": "https://github.com/Kaeriv93/project2",
     "image": "https://i.imgur.com/qju6gor.png",
-    "description": "A youtube clone where users are able to watch videos. They can also leave comments on videos as well.",
+    "description": "This project was created only by using EJS, a backend template that allows us to render webpages. In here, we were able to learn more about MongoDB which is a database that works with unrelational data types. We were able to create various schemas and have them populate with one another to create relationships.",
     "tech": "HTML CSS Javascript Mongo EJS"
   },
     {
@@ -20,7 +20,7 @@
       "live": "https://kaeriv93.github.io/Project--1-RPG-TURN-BASED-BATTLE/",
       "git": "https://github.com/Kaeriv93/Project--1-RPG-TURN-BASED-BATTLE",
       "image": "https://i.imgur.com/CxTWDqX.png",
-      "description": "A small interactive game based on Final Fantasy 7. Users will use attacks, magic, heals to survive the battle",
+      "description": "A small interactive game based on Final Fantasy 7. Users will use attacks, magic, heals to survive the battle. Created with Javascript, I made character classes and assigned them various values. I would also create multiple callback functions that will determine that action of each individual characters. Wanting to display various damage I created a math formula that would take the input of their maximum and minimum strength stack and randomly return a value in between.",
       "tech": "HTML CSS jQuery Javascript"
     }
 
