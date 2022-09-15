@@ -3,7 +3,7 @@
     "name": "Bonsai Fusion Steakhouse",
     "live": "https://bonsai-beta-v1.netlify.app/",
     "git": "https://github.com/Kaeriv93/Bonsai-New",
-    "image": "https://i.imgur.com/JmumD5w.png",
+    "image": "https://imgur.com/5ec3C3d",
     "description": "A responsive website created from the ground up leveraging React for a local restaurant in Houston, Tx. Added functionality to display estimate of price cost for customers, as well as adding functionality to email the restaurant. Constantly updated to meet business/leadership standards",
     "tech": "React Javascript CSS Bootstrap"
   },
